@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto Starbucks" src="./capa/capa.png" width="100%">
+  <img alt="Projeto Starbucks" src="./assets/capa/capa.png" width="100%">
 </p>
 
 ## 💻 Tecnologias
